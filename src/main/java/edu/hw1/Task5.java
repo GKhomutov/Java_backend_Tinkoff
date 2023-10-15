@@ -8,7 +8,7 @@ public final class Task5 {
     }
 
     /**
-     * Checks if the number is a palindrome or if any of its descendants is a palindrome.
+     * Checks whether the number is a palindrome or any of its descendants is a palindrome.
      *
      * @param number an integer to check
      * @return true if a palindrome exists, false otherwise
